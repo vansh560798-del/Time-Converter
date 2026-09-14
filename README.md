@@ -105,7 +105,7 @@ Output:
 
 **📷 CODE SCREENSHOT**
 
-File 1.jpeg
+Screenshots/File 1.jpeg
 --------------------------------------------------------
 
 ## 🖥️ Program Results / Output
