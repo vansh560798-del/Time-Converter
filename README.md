@@ -103,26 +103,10 @@ Output:
 
 ## 💻 Source Code
 
-### Code Screenshot
-
-> **Insert your C++ source-code screenshot here.**
-
-<br>
-
 **📷 CODE SCREENSHOT**
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                  PASTE CODE SCREENSHOT HERE                  │
-│                                                              │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
+File 1.jpeg
+--------------------------------------------------------
 
 ## 🖥️ Program Results / Output
 
