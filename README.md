@@ -105,16 +105,17 @@ Output:
 
 **📷 CODE SCREENSHOT**
 
-Screenshots/File 1.jpeg
+<img width="3104" height="1964" alt="File 1" src="https://github.com/user-attachments/assets/5869a851-ebb9-4ad8-8c8f-909601db580e" />
+
 --------------------------------------------------------
+
+<img width="3104" height="1964" alt="File 2" src="https://github.com/user-attachments/assets/161ebc75-5ad8-489b-8890-735f51ce52e5" />
+
 
 ## 🖥️ Program Results / Output
 
-### Result Screenshot 1 — Seconds to HH:MM:SS
+<img width="3104" height="1964" alt="File 3" src="https://github.com/user-attachments/assets/1501d318-d740-49f4-ba7e-c6dbc7d2d7d3" />
 
-> **Insert screenshot of the program running Option 1 here.**
-
-<br>
 
 **📷 RESULT SCREENSHOT**
 
