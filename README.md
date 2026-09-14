@@ -107,69 +107,18 @@ Output:
 
 <img width="3104" height="1964" alt="File 1" src="https://github.com/user-attachments/assets/5869a851-ebb9-4ad8-8c8f-909601db580e" />
 
---------------------------------------------------------
+---
 
 <img width="3104" height="1964" alt="File 2" src="https://github.com/user-attachments/assets/161ebc75-5ad8-489b-8890-735f51ce52e5" />
 
+--------------------------------------------------------
 
 ## 🖥️ Program Results / Output
 
-<img width="3104" height="1964" alt="File 3" src="https://github.com/user-attachments/assets/1501d318-d740-49f4-ba7e-c6dbc7d2d7d3" />
+<img width="3104" height="1964" alt="File 3" src="https://github.com/user-attachments/assets/0a9994b3-246c-4371-a8b5-be15dc57435c" />
 
+----------------------------------------------------------------------------------------------------------------
 
-**📷 RESULT SCREENSHOT**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                PASTE RESULT SCREENSHOT HERE                  │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-### Result Screenshot 2 — HH:MM:SS to Seconds
-
-> **Insert screenshot of the program running Option 2 here.**
-
-<br>
-
-**📷 RESULT SCREENSHOT**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                PASTE RESULT SCREENSHOT HERE                  │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-### Result Screenshot 3 — Exit / Invalid Choice
-
-> **Insert another output screenshot here if required.**
-
-<br>
-
-**📷 RESULT SCREENSHOT**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                PASTE RESULT SCREENSHOT HERE                  │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
 
 ## 🎥 Project Explanation Video
 
@@ -177,22 +126,22 @@ A complete explanation of the project is available at the Google Drive link belo
 
 ### 🔗 Google Drive Video
 
-**[PASTE GOOGLE DRIVE VIDEO LINK HERE]**
-
-> Replace the above placeholder with your Google Drive sharing link.
-
-**Recommended Google Drive permission:**
-`Anyone with the link → Viewer`
+https://drive.google.com/drive/folders/12ZzL5vvdIByfQptFqnaeoOjuC6-DUzgG?usp=sharing
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-Time-Converter/
+main
 │
-├── Project1.cpp
-└── README.md
+├── 📄 README.md
+├── 📄 Project1.cpp
+│
+└── 📁 Screenshots
+    ├── 🖼️ File 1.jpeg
+    ├── 🖼️ File 2.jpeg
+    └── 🖼️ File 3.jpeg
 ```
 
 ---
